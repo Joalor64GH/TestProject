@@ -3,7 +3,7 @@ package;
 class Main extends openfl.display.Sprite
 {
 	final config = {
-		gameDimensions: [1280, 720]
+		gameDimensions: [1280, 720],
 		framerate: 60,
 		initialState: PlayState,
 		skipSplash: false,
